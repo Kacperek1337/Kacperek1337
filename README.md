@@ -4,7 +4,7 @@ I now mainly code in **Python** and **Go**. I use them when it comes to backend.
 
 ![Kacperek1337's github stats](https://github-readme-stats.vercel.app/api?username=Kacperek1337&show_icons=true&theme=radical)
 
-[![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacperek1337&layout=compact&theme=radical)]
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacperek1337&layout=compact&theme=radical)
 
 #
 
